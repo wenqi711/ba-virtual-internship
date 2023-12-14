@@ -20,3 +20,5 @@ This task involved:
 - building a model using scikit-learn to predict customer buying behaviour, given [a file](./task_2/data/customer_booking.csv
 - evaluating the model by conducting cross-validation and outputting appropriate evaluation metrics
 - summarising our insights and analysis into a PowerPoint presentation
+
+[A completion certificate can be found here.](./Completion_Certificate.pdf)
