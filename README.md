@@ -12,7 +12,7 @@ This task involved:
 - creating visualisations using seaborn and matplotlib
 - summarising our insights and analysis into a PowerPoint presentation
 
-<small>Notes: This task was completed on October 19, 2023, but I failed to save [this file](./task_1/data/BA_review.csv) on the day. This file, and some other plots, were also recreated.</small>
+<small>Notes: This task was completed on October 19, 2023, but I failed to save [this file](./task_1/data/BA_reviews.csv) on the day. This file, and some other plots, were also recreated.</small>
 
 ## Task 2
 This task involved:
